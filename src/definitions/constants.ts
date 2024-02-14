@@ -8,8 +8,8 @@
  * SPDX-License-Identifier: EPL-2.0
  */
 import { localize } from "../util/i18nUtil";
-export const LIBERTY_MAVEN_PROJECT = "libertyMavenProject";
-export const LIBERTY_GRADLE_PROJECT = "libertyGradleProject";
+export const LIBERTY_MAVEN_PROJECT = "TEST";
+export const LIBERTY_GRADLE_PROJECT = "TEST";
 export const TEST_REPORT_STRING = "Test Summary";
 
 export const LIBERTY_DASHBOARD_WORKSPACE_STORAGE_KEY = "liberty.dashboard.data";
